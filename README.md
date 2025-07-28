@@ -1,57 +1,47 @@
-###
+<!-- Github Profile README -->
 
-<p align="center"><img src="https://count.getloli.com/get/@AwaaaFrens-github-readme?theme=rule34" /></p></div>
+<p align="center">
+  <img src="https://count.getloli.com/get/@AwaaaFrens-github-readme?theme=rule34" />
+</p>
 
-###
+<h1 align="center">Hey, what's up! 👋</h1>
 
-<h1 align="center">Hey, Whats Up</h1>
+<p align="center">
+  I'm a passionate <strong>Software Engineering Student</strong> from Indonesia 🇮🇩<br/>
+  Always learning, always building.
+</p>
 
-###
+---
 
-<p align="left">Hello there friends, I Am A Software Engineering Student From Indonesia</p>
+### 🧠 About Me
 
-###
+> "I'm just a human trying to be better... well, that's what Tobey said to Octo."  
+> &mdash; A friendly reminder from your local friendly dev 😄
 
-<h2 align="center">About me</h2>
+---
 
-###
+### 🛠️ Tech Stack
 
-<p align="left">Im just a human trying to be better, well thats what tobey said to Octo.</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+</p>
 
-###
+---
 
-<h2 align="center">I code with</h2>
+### 🏆 GitHub Trophies & Stats
 
-###
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wirasyf&theme=dracula&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-
-###
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=wirasyf&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <h2 align="center"></h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AwaaaFrens&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AwaaaFrens&theme=react-dark&area=true&radius=16" alt="GitHub Activity Graph" />
+</p>
