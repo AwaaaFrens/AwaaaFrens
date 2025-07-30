@@ -61,7 +61,7 @@
 ### 🏆 GitHub Trophies & 🔥 Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wirasyf&theme=dracula&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AwaaaFrens&theme=dracula&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
