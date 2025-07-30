@@ -52,11 +52,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaaaFrens&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
----
-### 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AwaaaFrens&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AwaaaFrens&theme=react-dark&area=true&radius=16" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -67,10 +64,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=wirasyf&theme=dracula&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AwaaaFrens&theme=react-dark&area=true&radius=16" alt="GitHub Activity Graph" />
-</p>
+### 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AwaaaFrens&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 ---
 
 ### ✨ Fun Facts
