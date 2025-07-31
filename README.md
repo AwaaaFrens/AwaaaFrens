@@ -24,13 +24,13 @@
 
 ```javascript
 const AwaaaFrens = {
-    pronouns: "he" | "him",
+    pronouns: "she" | "her",
     location: "Indonesia 🇮🇩",
     currentFocus: ["Laravel", "React", "Cloud Architecture"],
     askMeAbout: ["web dev", "tech", "clean code", "coffee"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vanilla JS"],
+            js: ["React"],
             css: ["TailwindCSS", "Bootstrap"]
         },
         backEnd: {
@@ -160,9 +160,6 @@ graph TD
 <p>
   <a href="https://github.com/AwaaaFrens">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://bimfikhri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.gg/GDdf6QSW7H">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
